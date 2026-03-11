@@ -1,2 +1,1 @@
-@echo off
-type hello.txt
+type .\hello.txt
